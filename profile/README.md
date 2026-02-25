@@ -12,7 +12,7 @@
 ## 🖥️ Le Système d'Exploitation : JemaOS 
 *Le socle souverain pour redonner vie à votre matériel.*
 
-* **[JemaOS](https://github.com/JemaOS/chromium)** : Une distribution **Open-Core** ultra-légère. Elle transforme n'importe quel ordinateur (ancien ou récent) en une station de travail cloud-native rapide, sécurisée et économe en énergie.
+* **[JemaOS](https://github.com/JemaOS/chromium)** : Une distribution **Open-Core** ultra-légère. Elle transforme n'importe quel ordinateur (ancien ou récent) en une station de travail performante, sécurisée et économe en énergie.
 * **Lutte contre l'Obsolescence** : Conçu pour fonctionner avec une fluidité exceptionnelle sur le matériel existant, prolongeant la durée de vie des appareils et réduisant les déchets électroniques (e-waste).
 
 ---
