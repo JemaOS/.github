@@ -14,7 +14,7 @@
 
 * **[JemaOS](https://github.com/JemaOS/chromium)** : Une distribution **Open-Core** ultra-légère. Elle transforme n'importe quel ordinateur (ancien ou récent) en une station de travail performante, sécurisée et économe en énergie.
 * **Lutte contre l'Obsolescence** : Conçu pour fonctionner avec une fluidité exceptionnelle sur le matériel existant, prolongeant la durée de vie des appareils et réduisant les déchets électroniques (e-waste).
-* * **Système Immuable (ReadOnly)** : JemaOS repose sur une architecture où le cœur du système est protégé contre toute modification accidentelle ou malveillante. Impossible de corrompre l'OS en effaçant des fichiers système : la résilience est native.
+* **Système Immuable (ReadOnly)** : JemaOS repose sur une architecture où le cœur du système est protégé contre toute modification accidentelle ou malveillante. Impossible de corrompre l'OS en effaçant des fichiers système : la résilience est native.
 
 ---
 
