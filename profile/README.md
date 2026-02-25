@@ -26,8 +26,10 @@
 * **[SetSound](https://github.com/JemaOS/setsound)** : Studio audio complet. Détection de BPM, fusion et conversion (AAC, FLAC, OGG) avec une empreinte carbone logicielle minimale.
 
 ### 🤝 Communication & Réseau P2P
+* **[Nephtys](https://github.com/JemaOS/Nephtys)** : *(Dépôt Privé)* La plateforme de messagerie moderne et sécurisée. Messagerie instantanée, appels voix/vidéo WebRTC et partage de fichiers avec chiffrement de bout en bout.
 * **[Anima](https://github.com/JemaOS/anima)** : Logiciel de visioconférence **Peer-to-Peer** souverain. Communiquez en direct sans serveur intermédiaire, garantissant une confidentialité totale de vos échanges.
 * **[JemaChess](https://github.com/JemaOS/jemachess)** : Jeu d'échecs moderne illustrant la force du P2P (PeerJS) pour le divertissement décentralisé.
+* * **[RemoteDesktop](https://github.com/JemaOS/RemoteDesktop)** : *(Dépôt Privé)* Solution d'assistance à distance pour les entreprises. Accès et contrôle à distance sécurisés, fluide et sans installation.
 
 ### 🧠 Intelligence & Productivité
 * **[JemaNote](https://github.com/JemaOS/jemanote-pwa)** : Le logiciel de prise de notes ultime assisté par l'IA **Mistral**. Capturez vos idées, organisez-les via une **vue canvas** interactive et gardez le contrôle total grâce au stockage local.
