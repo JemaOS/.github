@@ -33,7 +33,7 @@
 * **[RemoteDesktop](https://github.com/JemaOS/RemoteDesktop)** : *(Dépôt Privé)* Solution d'assistance à distance pour les entreprises. Accès et contrôle à distance sécurisés, fluide et sans installation.
 
 ### 🧠 Intelligence & Productivité
-* **[JemaNote](https://github.com/JemaOS/jemanote-pwa)** : Le logiciel de prise de notes ultime assisté par l'IA **Mistral**. Capturez vos idées, organisez-les via une **vue canvas** interactive et gardez le contrôle total grâce au stockage local.
+* **[JemaNote](https://github.com/JemaOS/jemanote)** : Le logiciel de prise de notes ultime assisté par l'IA **Mistral**. Capturez vos idées, organisez-les via une **vue canvas** interactive et gardez le contrôle total grâce au stockage local.
 * **[QuickText](https://github.com/JemaOS/quicktext)** : Éditeur de texte ultra-léger (CodeMirror 6) pour le code et la prise de notes brute instantanée.
 
 ---
