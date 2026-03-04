@@ -1,5 +1,7 @@
 # 🇫🇷 JemaOS : Le Système d'Exploitation Souverain & Open-Core
 
+![Interface Bureau JemaOS](profile/screenshots_jemaos/Screenshot%202026-03-04%2021.25.52.png)
+
 [![Jema Technology](https://img.shields.io/badge/Propulsé%20par-Jema%20Technology-blue?style=for-the-badge)](https://www.jematechnology.fr)
 [![Souveraineté](https://img.shields.io/badge/France-Souveraine-red?style=for-the-badge)]()
 [![Économie Circulaire](https://img.shields.io/badge/Économie-Circulaire-green?style=for-the-badge)]()
