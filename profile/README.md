@@ -39,9 +39,14 @@
 
 ### 🧠 Intelligence & Productivité
 * **[JemaNote](https://github.com/JemaOS/jemanote)** : Le logiciel de prise de notes ultime assisté par l'IA **Mistral**. Capturez vos idées, organisez-les via une **vue canvas** interactive et gardez le contrôle total grâce au stockage local.
-* **[QuickText](https://github.com/JemaOS/quicktext)** : Éditeur de texte ultra-léger (CodeMirror 6) pour le code et la prise de notes brute instantanée.
+* **[QuickText](https://github.com/JemaOS/quicktext)** : Éditeur de texte ultra-léger pour le code et la prise de notes brute instantanée.
 
 ![Productivité Jema](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.29.48.png)
+
+
+### 🚀 Performance Multi-Apps
+JemaOS gère l'exécution simultanée de tout l'écosystème avec une stabilité exemplaire, même sur du matériel reconditionné.
+![Écosystème en action](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.32.05.png)
 
 ---
 
