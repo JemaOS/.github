@@ -46,6 +46,7 @@
 
 ### 🚀 Performance Multi-Apps
 JemaOS gère l'exécution simultanée de tout l'écosystème avec une stabilité exemplaire, même sur du matériel reconditionné.
+
 ![Écosystème en action](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.32.05.png)
 
 ---
