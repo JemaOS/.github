@@ -26,6 +26,7 @@
 ### 🎬 Multimédia & Création (Propulsé par MediaBunny™)
 
 * **[OsiVibe](https://github.com/JemaOS/osivibe)** : Éditeur vidéo pro 4K. Montage multi-pistes fluide sans latence.
+  
 ![Interface OsiVibe](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.30.48.png)
 
 * **[Galerie](https://github.com/JemaOS/Galerie)** : Gestionnaire de médias intelligent pour organiser, visionner et protéger vos souvenirs et assets créatifs localement.
