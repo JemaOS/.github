@@ -24,7 +24,10 @@
 *Une suite de PWA professionnelles, interopérables et respectueuses de la vie privée.*
 
 ### 🎬 Multimédia & Création (Propulsé par MediaBunny™)
-* **[OsiVibe](https://github.com/JemaOS/osivibe)** : Éditeur vidéo pro 4K. Montage multi-pistes fluide sans latence, optimisé pour une consommation CPU minimale.
+
+* **[OsiVibe](https://github.com/JemaOS/osivibe)** : Éditeur vidéo pro 4K. Montage multi-pistes fluide sans latence.
+![Interface OsiVibe](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.30.48.png)
+
 * **[Galerie](https://github.com/JemaOS/Galerie)** : Gestionnaire de médias intelligent pour organiser, visionner et protéger vos souvenirs et assets créatifs localement.
 * **[SetSound](https://github.com/JemaOS/setsound)** : Studio audio complet. Détection de BPM, fusion et conversion (AAC, FLAC, OGG) avec une empreinte carbone logicielle minimale.
 
@@ -37,6 +40,8 @@
 ### 🧠 Intelligence & Productivité
 * **[JemaNote](https://github.com/JemaOS/jemanote)** : Le logiciel de prise de notes ultime assisté par l'IA **Mistral**. Capturez vos idées, organisez-les via une **vue canvas** interactive et gardez le contrôle total grâce au stockage local.
 * **[QuickText](https://github.com/JemaOS/quicktext)** : Éditeur de texte ultra-léger (CodeMirror 6) pour le code et la prise de notes brute instantanée.
+
+![Productivité Jema](https://raw.githubusercontent.com/JemaOS/.github/main/profile/screenshots_jemaos/Screenshot%202026-03-04%2021.29.48.png)
 
 ---
 
